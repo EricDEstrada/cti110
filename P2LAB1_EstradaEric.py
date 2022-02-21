@@ -8,4 +8,4 @@ print(user_int,user_float,user_char,user_str,) #Should print out with spaces bet
 # FIXME (2): Output the four values in reverse
 print(user_str,user_char,user_float,user_int) #Prints in reverse
 # FIXME (3): Convert the integer to a characer, and output that character
-print(str(user_int) + " converted to a character is " + chr(user_int))
+print(str(user_int) + " converted to a character is " + chr(user_int)) #Should convert int to a character
